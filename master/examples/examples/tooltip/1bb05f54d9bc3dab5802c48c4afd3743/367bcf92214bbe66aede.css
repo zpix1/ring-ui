@@ -1,0 +1,12 @@
+
+.lorem-ipsum {
+  padding-bottom: 200px;
+}
+
+.lorem-ipsum__text_overflow {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+  

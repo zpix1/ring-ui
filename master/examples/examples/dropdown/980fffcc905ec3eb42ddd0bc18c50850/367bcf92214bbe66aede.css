@@ -1,0 +1,11 @@
+
+.chevron svg {
+  transition: transform 0.3s ease-out;
+  transform-origin: 50% 40%;
+  transform: rotate(0deg);
+}
+
+.rotated svg {
+  transform: rotate(180deg);
+}
+  
