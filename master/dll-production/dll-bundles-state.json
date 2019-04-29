@@ -1,7 +1,7 @@
 {
   "@babel/polyfill": {
     "bundle": "vendor",
-    "version": "7.4.3"
+    "version": "7.4.4"
   },
   "dom4": {
     "bundle": "vendor",
