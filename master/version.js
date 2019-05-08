@@ -1,1 +1,1 @@
-window.version = '2.0.5';
+window.version = '2.0.6';
