@@ -19,7 +19,7 @@
 
   margin-right: calc(unit / 2);
   margin-bottom: 1px;
-  padding: 1px unit;
+  padding: 0 unit;
 
   vertical-align: top;
 
