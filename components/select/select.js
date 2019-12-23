@@ -100,7 +100,7 @@ export default class Select extends Component {
     disabled: PropTypes.bool,
     hideSelected: PropTypes.bool,
     label: PropTypes.string,
-    selectedLabel: PropTypes.oneOf([
+    selectedLabel: PropTypes.oneOfType([
       PropTypes.string,
       PropTypes.arrayOf(PropTypes.node),
       PropTypes.node
