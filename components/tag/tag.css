@@ -129,7 +129,6 @@
   box-sizing: border-box;
   width: max-height;
   height: max-height;
-  margin-top: -1px;
   margin-right: calc(unit / 2);
   margin-left: calc(0 - unit);
 
