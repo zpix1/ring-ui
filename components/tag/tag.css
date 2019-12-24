@@ -54,6 +54,7 @@
 }
 
 .tagAngled {
+  margin-bottom: -5px; /* it needs to fix vertical alignment broken by "overflow: hidden" */
   margin-left: unit;
   padding-left: calc(unit / 2);
 
