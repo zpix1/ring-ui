@@ -146,7 +146,6 @@ export default class Tag extends PureComponent {
         [styles.focused]: this.state.focused,
         [styles.disabled]: this.props.disabled,
         [styles.tagAngled]: this.props.angled,
-        [styles.tagAngledIE]: this.props.angled && window.navigator.userAgent.indexOf('MSIE ') > -1,
         [styles.withRemove]: !this.props.readOnly
       },
       this.props.className

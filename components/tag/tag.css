@@ -53,11 +53,8 @@
   box-shadow: 0 0 0 2px var(--ring-border-hover-color);
 }
 
-.tagAngledIE {
-  margin-bottom: -5px !important; /* it needs to fix vertical alignment broken by "overflow: hidden". Remove this class, when IE11 will be deprecated */
-}
-
 .tagAngled {
+  margin-bottom: -5px !important; /* it needs to fix vertical alignment broken by "overflow: hidden". Remove this class, when IE11 will be deprecated */
   margin-left: unit;
   padding-left: calc(unit / 2);
 
