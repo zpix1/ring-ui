@@ -288,8 +288,6 @@ export default class TagsInput extends Component {
       },
       this.props.className);
 
-    const isIE = window.navigator.userAgent.indexOf('MSIE ') > -1;
-
     return (
       <div
         // it transfers focus to input
@@ -311,7 +309,7 @@ export default class TagsInput extends Component {
         >
           <Select
             ref={this.selectRef}
-            size={isIE ? Select.Size.M : Select.Size.AUTO}
+            size={Select.Size.AUTO}
             type={Select.Type.INPUT_WITHOUT_CONTROLS}
             inputPlaceholder={this.props.placeholder}
             data={this.state.suggestions}
