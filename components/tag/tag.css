@@ -54,7 +54,7 @@
 }
 
 .tagAngledIE {
-  margin-bottom: -5px; /* it needs to fix vertical alignment broken by "overflow: hidden". Remove this class, when IE11 will be deprecated */
+  margin-bottom: -5px !important; /* it needs to fix vertical alignment broken by "overflow: hidden". Remove this class, when IE11 will be deprecated */
 }
 
 .tagAngled {
