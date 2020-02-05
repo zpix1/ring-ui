@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[52],{3373:function(module,exports){module.exports=function(hljs){return{subLanguage:"xml",contains:[hljs.COMMENT("<%#","%>"),{begin:"<%[%=-]?",end:"[%-]?%>",subLanguage:"ruby",excludeBegin:!0,excludeEnd:!0}]}}}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_highlight_erb.81d5a2d8abc542b2dbea.bundle.js.map
