@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{1358:function(module,exports){module.exports=function(hljs){var LITERAL={className:"literal",begin:"[\\+\\-]",relevance:0};return{aliases:["bf"],contains:[hljs.COMMENT("[^\\[\\]\\.,\\+\\-<> \r\n]","[\\[\\]\\.,\\+\\-<> \r\n]",{returnEnd:!0,relevance:0}),{className:"title",begin:"[\\[\\]]",relevance:0},{className:"string",begin:"[\\.,]",relevance:0},{begin:/(?:\+\+|\-\-)/,contains:[LITERAL]},LITERAL]}}}}]);
+//# sourceMappingURL=highlight-brainfuck.b58ccfb4b605f5cee2fa.bundle.js.map

@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[122],{1516:function(module,exports){module.exports=function(hljs){return{case_insensitive:!0,contains:[hljs.HASH_COMMENT_MODE,{className:"meta",variants:[{begin:"^TAP version (\\d+)$"},{begin:"^1\\.\\.(\\d+)$"}]},{begin:"(s+)?---$",end:"\\.\\.\\.$",subLanguage:"yaml",relevance:0},{className:"number",begin:" (\\d+) "},{className:"symbol",variants:[{begin:"^ok"},{begin:"^not ok"}]}]}}}}]);
-//# sourceMappingURL=highlight-tap.00ce003c7df6045b4863.bundle.js.map
