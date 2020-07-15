@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[65],{1351:function(module,exports){module.exports=function(hljs){return{contains:[{className:"meta",begin:/^julia>/,relevance:10,starts:{end:/^(?![ ]{6})/,subLanguage:"julia"},aliases:["jldoctest"]}]}}}}]);
-//# sourceMappingURL=highlight-julia-repl.3e486e49168d14846787.bundle.js.map
