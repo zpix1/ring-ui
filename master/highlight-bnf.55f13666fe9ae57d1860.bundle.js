@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{1302:function(module,exports){module.exports=function(hljs){return{contains:[{className:"attribute",begin:/</,end:/>/},{begin:/::=/,starts:{end:/$/,contains:[{begin:/</,end:/>/},hljs.C_LINE_COMMENT_MODE,hljs.C_BLOCK_COMMENT_MODE,hljs.APOS_STRING_MODE,hljs.QUOTE_STRING_MODE]}}]}}}}]);
+//# sourceMappingURL=highlight-bnf.55f13666fe9ae57d1860.bundle.js.map
