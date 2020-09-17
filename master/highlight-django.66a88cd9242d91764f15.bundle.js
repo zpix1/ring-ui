@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[36],{2021:function(module,exports,__webpack_require__){module.exports=__webpack_require__(21)("yX6j")}}]);
-//# sourceMappingURL=highlight-django.66a88cd9242d91764f15.bundle.js.map
