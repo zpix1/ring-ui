@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[123],{1881:function(module,exports,__webpack_require__){module.exports=__webpack_require__(19)("VGXY")}}]);
-//# sourceMappingURL=highlight-stata.7e836e1a1dd72463f20a.bundle.js.map
