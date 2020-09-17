@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{1992:function(module,exports,__webpack_require__){module.exports=__webpack_require__(21)("IyI1")}}]);
-//# sourceMappingURL=highlight-applescript.e405734545d023fdcf16.bundle.js.map

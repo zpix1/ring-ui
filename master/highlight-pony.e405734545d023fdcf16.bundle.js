@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[99],{2084:function(module,exports,__webpack_require__){module.exports=__webpack_require__(21)("EG2+")}}]);
-//# sourceMappingURL=highlight-pony.e405734545d023fdcf16.bundle.js.map
