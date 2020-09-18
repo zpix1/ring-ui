@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[106],{2091:function(module,exports,__webpack_require__){module.exports=__webpack_require__(21)("ZiYa")}}]);
-//# sourceMappingURL=highlight-purebasic.766566b19e8c66d6dc85.bundle.js.map
