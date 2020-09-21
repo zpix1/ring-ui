@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{2007:function(module,exports){module.exports=function c(hljs){var lang=hljs.requireLanguage("c-like").rawDefinition();return lang.name="C",lang.aliases=["c","h"],lang}}}]);
-//# sourceMappingURL=highlight-c.4b7e7e4f0379c180b7c9.bundle.js.map
