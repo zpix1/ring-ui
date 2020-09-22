@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{2014:function(module,exports,__webpack_require__){module.exports=__webpack_require__(21)("sKlF")}}]);
-//# sourceMappingURL=highlight-coq.e158a7ba97245133b689.bundle.js.map
