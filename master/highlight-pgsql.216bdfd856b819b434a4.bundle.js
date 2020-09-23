@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[99],{2087:function(module,exports,__webpack_require__){module.exports=__webpack_require__(21)("UG7i")}}]);
-//# sourceMappingURL=highlight-pgsql.216bdfd856b819b434a4.bundle.js.map
