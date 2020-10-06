@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{1782:function(module,exports){module.exports=function brainfuck(hljs){var LITERAL={className:"literal",begin:"[\\+\\-]",relevance:0};return{name:"Brainfuck",aliases:["bf"],contains:[hljs.COMMENT("[^\\[\\]\\.,\\+\\-<> \r\n]","[\\[\\]\\.,\\+\\-<> \r\n]",{returnEnd:!0,relevance:0}),{className:"title",begin:"[\\[\\]]",relevance:0},{className:"string",begin:"[\\.,]",relevance:0},{begin:/(?:\+\+|\-\-)/,contains:[LITERAL]},LITERAL]}}}}]);
-//# sourceMappingURL=highlight-brainfuck.3d209ef2d1091f11ea8c.bundle.js.map
