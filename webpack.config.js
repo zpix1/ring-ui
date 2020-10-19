@@ -91,6 +91,11 @@ const whatwgLoader = {
   loader: require.resolve('imports-loader')
 };
 
+const vfileLoader = {
+  test: /node_modules\/vfile\/core\.js/,
+  loader: 'imports-loader?process=process/browser'
+};
+
 const htmlLoader = {
   test: /-ng(\\|\/)\S*(-ng|-ng__)\S*\.html$/,
   include: componentsPath,
@@ -111,6 +116,7 @@ const loaders = {
   scssLoader,
   babelLoader,
   whatwgLoader,
+  vfileLoader,
   htmlLoader,
   gifLoader
 };
