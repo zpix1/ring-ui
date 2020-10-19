@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[64],{1831:function(module,exports){module.exports=function javascript_old(hljs){return hljs.requireLanguage("typescript").rawDefinition()}}}]);
-//# sourceMappingURL=highlight-javascript-old.ea4f4b386973ff345215.bundle.js.map
