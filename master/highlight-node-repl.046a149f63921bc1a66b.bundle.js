@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[87],{2042:function(module,exports){module.exports=function nodeRepl(hljs){return{name:"Node REPL",contains:[{className:"meta",starts:{end:/ |$/,starts:{end:"$",subLanguage:"javascript"}},variants:[{begin:/^>(?=[ ]|$)/},{begin:/^\.\.\.(?=[ ]|$)/}]}]}}}}]);
-//# sourceMappingURL=highlight-node-repl.046a149f63921bc1a66b.bundle.js.map
