@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[97],{1994:function(module,exports){module.exports=function plaintext(hljs){return{name:"Plain text",aliases:["text","txt"],disableAutodetect:!0}}}}]);
-//# sourceMappingURL=highlight-plaintext.e65a51a2708c5c104d36.bundle.js.map
