@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[134],{1850:function(module,exports){module.exports=function vbscriptHtml(hljs){return{name:"VBScript in HTML",subLanguage:"xml",contains:[{begin:"<%",end:"%>",subLanguage:"vbscript"}]}}}}]);
-//# sourceMappingURL=highlight-vbscript-html.120879991267e26c2d78.bundle.js.map
