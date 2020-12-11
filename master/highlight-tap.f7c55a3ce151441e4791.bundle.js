@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[127],{2225:function(module,exports){module.exports=function tap(hljs){return{name:"Test Anything Protocol",case_insensitive:!0,contains:[hljs.HASH_COMMENT_MODE,{className:"meta",variants:[{begin:"^TAP version (\\d+)$"},{begin:"^1\\.\\.(\\d+)$"}]},{begin:/---$/,end:"\\.\\.\\.$",subLanguage:"yaml",relevance:0},{className:"number",begin:" (\\d+) "},{className:"symbol",variants:[{begin:"^ok"},{begin:"^not ok"}]}]}}}}]);
+//# sourceMappingURL=highlight-tap.f7c55a3ce151441e4791.bundle.js.map
