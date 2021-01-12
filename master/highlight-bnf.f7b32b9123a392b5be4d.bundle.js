@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{1659:function(module,exports){module.exports=function bnf(hljs){return{name:"Backus–Naur Form",contains:[{className:"attribute",begin:/</,end:/>/},{begin:/::=/,end:/$/,contains:[{begin:/</,end:/>/},hljs.C_LINE_COMMENT_MODE,hljs.C_BLOCK_COMMENT_MODE,hljs.APOS_STRING_MODE,hljs.QUOTE_STRING_MODE]}]}}}}]);
+//# sourceMappingURL=highlight-bnf.f7b32b9123a392b5be4d.bundle.js.map
