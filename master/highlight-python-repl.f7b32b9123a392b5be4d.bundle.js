@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[106],{1751:function(module,exports){module.exports=function pythonRepl(hljs){return{aliases:["pycon"],contains:[{className:"meta",starts:{end:/ |$/,starts:{end:"$",subLanguage:"python"}},variants:[{begin:/^>>>(?=[ ]|$)/},{begin:/^\.\.\.(?=[ ]|$)/}]}]}}}}]);
-//# sourceMappingURL=highlight-python-repl.f7b32b9123a392b5be4d.bundle.js.map

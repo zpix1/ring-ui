@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[43],{1684:function(module,exports){module.exports=function erb(hljs){return{name:"ERB",subLanguage:"xml",contains:[hljs.COMMENT("<%#","%>"),{begin:"<%[%=-]?",end:"[%-]?%>",subLanguage:"ruby",excludeBegin:!0,excludeEnd:!0}]}}}}]);
-//# sourceMappingURL=highlight-erb.f7b32b9123a392b5be4d.bundle.js.map
