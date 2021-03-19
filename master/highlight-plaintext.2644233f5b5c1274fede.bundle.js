@@ -1,2 +1,0 @@
-(self.webpackChunk_jetbrains_ring_ui=self.webpackChunk_jetbrains_ring_ui||[]).push([[4307],{76572:function(module){module.exports=function plaintext(hljs){return{name:"Plain text",aliases:["text","txt"],disableAutodetect:!0}}}}]);
-//# sourceMappingURL=highlight-plaintext.2644233f5b5c1274fede.bundle.js.map

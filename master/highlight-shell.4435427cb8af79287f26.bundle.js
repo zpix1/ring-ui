@@ -1,0 +1,2 @@
+(self.webpackChunk_jetbrains_ring_ui=self.webpackChunk_jetbrains_ring_ui||[]).push([[9762],{19514:function(module){module.exports=function shell(hljs){return{name:"Shell Session",aliases:["console"],contains:[{className:"meta",begin:/^\s{0,3}[/~\w\d[\]()@-]*[>%$#]/,starts:{end:/[^\\](?=\s*$)/,subLanguage:"bash"}}]}}}}]);
+//# sourceMappingURL=highlight-shell.4435427cb8af79287f26.bundle.js.map
