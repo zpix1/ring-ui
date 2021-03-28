@@ -1,2 +1,0 @@
-(self.webpackChunk_jetbrains_ring_ui=self.webpackChunk_jetbrains_ring_ui||[]).push([[6294],{78349:function(module){module.exports=function bnf(hljs){return{name:"Backus–Naur Form",contains:[{className:"attribute",begin:/</,end:/>/},{begin:/::=/,end:/$/,contains:[{begin:/</,end:/>/},hljs.C_LINE_COMMENT_MODE,hljs.C_BLOCK_COMMENT_MODE,hljs.APOS_STRING_MODE,hljs.QUOTE_STRING_MODE]}]}}}}]);
-//# sourceMappingURL=highlight-bnf.b10bf9e70cb47d502595.bundle.js.map
