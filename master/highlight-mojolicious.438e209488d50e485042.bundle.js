@@ -1,2 +1,0 @@
-(self.webpackChunk_jetbrains_ring_ui=self.webpackChunk_jetbrains_ring_ui||[]).push([[8430],{92210:function(module){module.exports=function mojolicious(hljs){return{name:"Mojolicious",subLanguage:"xml",contains:[{className:"meta",begin:"^__(END|DATA)__$"},{begin:"^\\s*%{1,2}={0,2}",end:"$",subLanguage:"perl"},{begin:"<%{1,2}={0,2}",end:"={0,1}%>",subLanguage:"perl",excludeBegin:!0,excludeEnd:!0}]}}}}]);
-//# sourceMappingURL=highlight-mojolicious.438e209488d50e485042.bundle.js.map
