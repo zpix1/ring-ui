@@ -12,7 +12,8 @@ module.exports = () => {
     require('postcss-font-family-system-ui')({browsers: ['last 2 versions']}),
     require('postcss-flexbugs-fixes')(),
     require('@jetbrains/postcss-require-hover')(),
-    require('postcss-calc')({mediaQueries: true})
+    require('postcss-calc')({mediaQueries: true}),
+    require('postcss-overflow-clip')()
   ];
 
   return {plugins};
