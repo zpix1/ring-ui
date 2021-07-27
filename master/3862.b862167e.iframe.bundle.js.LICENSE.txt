@@ -73,7 +73,7 @@ object-assign
 
 /*! (c) Andrea Giammarchi - ISC */
 
-/*! axe v4.2.3
+/*! axe v4.3.1
  * Copyright (c) 2021 Deque Systems, Inc.
  *
  * Your use of this Source Code Form is subject to the terms of the Mozilla Public
