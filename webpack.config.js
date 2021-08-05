@@ -58,7 +58,7 @@ function createConfig() {
   };
 
   const babelLoader = {
-    test: /\.js$/,
+    test: /\.[jt]sx?$/,
     sideEffects: false,
     include: componentsPath,
     loader: require.resolve('babel-loader'),
@@ -93,6 +93,9 @@ function createConfig() {
     config: {
       module: {
         rules: loadersObjectToArray(loaders)
+      },
+      resolve: {
+        extensions: ['.js', '.ts', '.tsx']
       }
     },
     componentsPath,
